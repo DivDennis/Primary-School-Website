@@ -1,0 +1,87 @@
+.container-cards{
+	margin-left:70px;
+	margin-right: 70px;
+}
+
+.brand-logo{
+	font-family: "Franklin Gothic Book";
+	font-size: 25px !important;
+}
+
+.nav-text{
+	font-size: 14px !important;
+}
+
+body{
+	font-family: "Franklin Gothic Book";
+}
+
+.container.block{
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+.container-nav{
+	padding-left: 20px;
+}
+
+/*About Us Styling*/
+
+.fine-text{
+	margin-top: 0px;
+}
+
+.big-text{
+	margin-bottom: 0px;
+}
+
+.top{
+	margin-bottom: 0px;
+}
+
+.bottom{
+	margin-top: 0px;
+}
+
+.section-1{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/*Contact Us Styling*/
+.center-align{
+	padding-bottom: 20px;
+}
+
+/*Club Styling*/
+
+.image{
+	height:300px; 
+	width:500px;
+}
+
+.container-club{
+	padding-left: 100px;
+}
+
+.section.table-of-contents{
+	position: fixed;
+}
+
+/*SideNav Style*/
+
+.text-style{
+	font-family: "Franklin Gothic Book" !important;
+	font-size: 20px !important;
+}
+
+/*EventMangement Style*/
+
+.add-new{
+	padding-top: 100px !important;
+}
+
+/*Login Style*/
+.login-card{
+	padding: 50px !important;
+}
