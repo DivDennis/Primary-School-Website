@@ -30,7 +30,7 @@ if(isset($_GET['page_num'])){
 <?php foreach($eventList as $event) : ?> 
  <div class="row">
     <div class="col s12 m6 l3">
-    <img src="<?=($event->getPath() == null)?'./img/parallax1.png':$calendar_event->getPath()?>" width="200px" height="140px">
+    <img src="<?=(($event->getPath() == null)?'./img/parallax1.png':$event->getPath())?>" width="200px" height="140px">
     </div>
     <div class="col s12 m6 l7">
         <h5 class="blue-text text-darken-3"> <?= $event->getEvent_Name() ?> </h5>
@@ -39,6 +39,7 @@ if(isset($_GET['page_num'])){
         <br>
         <a href="<?= 'view_event.php?id='.$event->getId() ?>">See More</a>
     </div>
+ </div>
 
 <?php endforeach; ?>
 

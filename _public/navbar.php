@@ -27,7 +27,7 @@
         <li><a class="dropdown-button yellow-text" href="#!" data-activates="dropdown1">Parents<!-- <i class="material-icons right">arrow_drop_down</i> --></a></li>
         <li><a class="dropdown-button yellow-text" href="#!" data-activates="dropdown2">Students<!-- <i class="material-icons right">arrow_drop_down</i> --></a></li>
         <li><a href="calendar.php" class="yellow-text">Calendar</a></li>
-        <li><a href="contact.php" class="yellow-text">Contact Us</a></li
+        <li><a href="contact.php" class="yellow-text">Contact Us</a></li>
       </ul>
     </div>
   </nav>
