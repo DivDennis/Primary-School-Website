@@ -30,5 +30,5 @@
         <li><a href="contact.php" class="yellow-text">Contact Us</a></li>
       </ul>
     </div>
+    </div>
   </nav>
-  <body>
