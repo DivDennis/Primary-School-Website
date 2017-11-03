@@ -33,7 +33,7 @@ include './navbar.php';
                         <img class="activator" src="./img/placehold.png">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator blue-text text-darken-3">Principals Desk<i class="small material-icons right">view_headline</i></span>
+                        <span class="card-title activator blue-text text-darken-3 size">Principals Desk<i class="small material-icons right">view_headline</i></span>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title blue-text text-darken-3">Principal's Desk<i class="small material-icons right">done_all</i></span>
@@ -52,7 +52,7 @@ include './navbar.php';
                         <img class="activator" src="./img/placehold.png">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator blue-text text-darken-3">Chairman's Message<i class="small material-icons right">view_headline</i></span>
+                        <span class="card-title activator blue-text text-darken-3 size">Chairman's Message<i class="small material-icons right">view_headline</i></span>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title blue-text text-darken-3">Chairman's Message<i class="small material-icons right">done_all</i></span>
@@ -71,7 +71,7 @@ include './navbar.php';
                             <img class="activator" src="./img/placehold.png">
                         </div>
                         <div class="card-content">
-                            <span class="card-title activator blue-text text-darken-3">Student of the Year<i class="small material-icons right">view_headline</i></span>
+                            <span class="card-title activator blue-text text-darken-3 size">Student of the Year<i class="small material-icons right">view_headline</i></span>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title blue-text text-darken-3">A word from our student of the year.<i class="small material-icons right">done_all</i></span>

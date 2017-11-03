@@ -29,7 +29,7 @@
     </div>
     <div class="footer-copyright blue darken-3">
       <div class="container">
-      Made by <a class="blue-text" href="#">Divia Dennis & Yanik Blake</a> 
+      Made by <a class="blue-text" href="#">Divia Dennis</a> 
       <a class="yellow-text right" href="./login.php">Login</a>
       </div>
     </div>
