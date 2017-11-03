@@ -1,1 +1,0 @@
-before opening the website change the javascipt files extension in the "js" folder back to ".js"
